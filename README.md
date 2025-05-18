@@ -7,12 +7,19 @@ Copy
 Edit
 beamforming-grc/
 ├── basic_beamforming.grc           # Core beamforming implementation
+
 ├── parametric_analysis.grc         # Flowgraph with tunable parameters (e.g., SNR, AoA, array spacing)
+
 ├── utils/
+
 │   └── custom_blocks/              # Any external or hierarchical blocks used
+
 ├── docs/
+
 │   └── usage_diagram.png           # Optional schematic diagrams or signal flow explanations
+
 └── README.md                       # This file
+
 🛠️ Prerequisites
 Before using the flowgraphs, ensure that you have the following installed:
 
